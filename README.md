@@ -31,6 +31,5 @@ public class Main {
         } catch (StuException e) {
             System.out.println(e.getMessage());
         }
-
     }
 }
